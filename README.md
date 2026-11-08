@@ -5,7 +5,7 @@ The one with Logo is used for the great Project maverick1982/esp32-nut found on 
 
 <img width="1920" height="724" alt="Perspective" src="https://github.com/user-attachments/assets/a5b0feae-c99b-4967-96db-e2562172706b" />
 
-To mount the c-rail clamp at back you´ll need two inserts 4x6x4mm. 
+All cases build without screws, specialy to mount the c-rail clamp at back you´ll need two inserts 4x6x4mm. 
 
 
 <img width="1920" height="721" alt="Glasview" src="https://github.com/user-attachments/assets/f88b8b51-1468-4fcb-af9f-3dc7d2ecbd32" />
