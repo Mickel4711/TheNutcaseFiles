@@ -11,7 +11,7 @@ To mount the c-rail clamp at back you´ll need two inserts 4x6x4mm.
 <img width="1920" height="721" alt="Glasview" src="https://github.com/user-attachments/assets/f88b8b51-1468-4fcb-af9f-3dc7d2ecbd32" />
 
 
-A second case for using a ESP32-P4 with is also Here.
+A second case for using a ESP32-P4 with is also here to get.
 I used a single USB-OTG mini Adapter you as you can see in the View. 
 So you can take a standart USB A B Cable.
 
